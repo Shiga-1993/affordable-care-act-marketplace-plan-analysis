@@ -1,0 +1,12 @@
+{
+  "source_checked_date": "2026-05-25",
+  "source_page": "https://www.cms.gov/marketplace/resources/data/public-use-files",
+  "data_import_note": "The Centers for Medicare & Medicaid Services source page states 2026 Exchange Public Use File data were last imported by April 28, 2026.",
+  "raw_file_sizes": {
+    "plan": 1001042,
+    "rate": 16238329,
+    "benefits": 12450638
+  },
+  "report_path": "/Users/mshiga/Documents/New project/X_M93/projects/healthcare_marketplace_plan_premium_variation/outputs/report/review_report.html",
+  "scope": "Individual, non-dental, standard on-exchange medical plan variants; age-40 gross premium."
+}

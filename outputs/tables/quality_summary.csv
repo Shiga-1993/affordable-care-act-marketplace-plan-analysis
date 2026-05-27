@@ -1,0 +1,12 @@
+check,value,note
+plan_attributes_raw_rows,22059,Rows read from the Plan Attributes Public Use File.
+rate_raw_rows,2235761,Rows read from the Rate Public Use File.
+benefits_cost_sharing_raw_rows,1457952,Rows scanned from the Benefits and Cost Sharing Public Use File.
+standard_on_exchange_medical_plans,4044,"Individual, non-dental, standard on-exchange plan components retained."
+age40_rate_rows,39095,Plan-rating-area age-40 premium rows after grouping.
+joined_plan_rating_area_rows,24217,Plan-rating-area rows joined to plan attributes.
+states,30,States represented in the final analysis scope.
+issuers,183,Issuers represented in the final analysis scope.
+missing_premium_rows,0,Rows missing age-40 individual premium after join.
+missing_deductible_rows,0,Rows missing parsed individual deductible.
+missing_maximum_out_of_pocket_rows,0,Rows missing parsed individual maximum out-of-pocket.
